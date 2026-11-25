@@ -1,0 +1,6 @@
+mvn compile - kompilerar java klasserna till target/
+mvn clean - tar bort target/
+mvn javadoc:javadoc - skapar javadoc till projektet
+mvn test - kör tester
+mvn package - paketerar till jar
+java -jar target/library-1.0-SNAPSHOT.jar - kör jar-filen
